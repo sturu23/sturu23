@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sturu23&label=Profile%20views&color=0e75b6&style=flat" alt="sturu23" /> </p>
 
 
-- 🔭 I’m currently working on **Childes,Georgian Forecast**
+- 🔭 I’m currently working on **Georgian Weather Forecast**
 
 - 🌱 I’m currently learning **Python,Flask**
 
