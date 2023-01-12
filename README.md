@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **Georgian Weather Forecast**<br><br>- 🌱 I’m currently learning **Python,Flask,FastAPI**<br><br>- 💬 Future plans **to get more experience in web development**<br><br>- 📫 How to reach me **gsturua892@gmail.com**<br>- <br>- ⚡ Fun fact **if project is interesting, I can't stop working**
+- 🔭 I’m currently working on **Georgian Weather Forecast**<br><br>- 🌱 I’m currently learning **Python,Odoo**<br><br>- 💬 Future plans **to get more experience in web development**<br><br>- 📫 How to reach me **gsturua892@gmail.com**<br>- <br>- ⚡ Fun fact **if project is interesting, I can't stop working**
 
 
 ## 🌐 Socials:
